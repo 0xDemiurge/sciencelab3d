@@ -36,6 +36,19 @@ The complete lab as a native Android app via Capacitor. **All 40 experiments + t
 
 ---
 
+## 🖥️ Desktop App (Offline — Windows, macOS & Linux)
+
+**Install: [ScienceLab 3D on the Extella Store](https://os.extella.ai/listing/8c7018a3-5cb4-4a2d-add3-360a5a2bb363) — Free**
+
+The complete lab is also published as a **desktop application** on the [Extella Store](https://extella.dev) — open-source apps that open in a window with **no terminal, no Docker and no internet required**. Built from this repository; the whole app ships as a local bundle, so all **40 experiments and their theory guides run 100% offline** on your PC.
+
+- Free, one-click install from the store (Extella desktop app for Windows, macOS & Linux)
+- Zero runtime network access — the 3D label font and environment lighting are bundled
+- MIT license and attribution travel inside the package
+
+---
+
+
 ## 🌟 What is ScienceLab 3D?
 
 **ScienceLab 3D** is a fully interactive, browser-based 3D science simulation platform covering **Physics**, **Chemistry**, **Biology**, and **Mathematics**. With **40+ experiments**, real-time controls, and stunning 3D visualizations powered by Three.js, it makes learning science intuitive, engaging, and fun — no downloads, no accounts required.
